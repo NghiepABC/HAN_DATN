@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sz6H0PZP64uXEZAKCzMTNcqhW1hokZodzivcTBqdOMPL+0TppCzUjBuTgnGiySUe4b5c+q9ghVo+W9d53Lh1KA==",
+  "success": true,
+  "projectFilePath": "D:\\DATN\\amis.product.be\\MISA.WEB08.AMIS.DL\\MISA.WEB08.AMIS.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nghiep Dep Trai\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Nghiep Dep Trai\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
+    "C:\\Users\\Nghiep Dep Trai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nghiep Dep Trai\\.nuget\\packages\\npgsql\\5.0.15\\npgsql.5.0.15.nupkg.sha512",
+    "C:\\Users\\Nghiep Dep Trai\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
